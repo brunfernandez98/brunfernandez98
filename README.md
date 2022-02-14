@@ -11,7 +11,7 @@ Now studying Computer Engineering in UNIVERSIDAD ORT.
 - 📫 Contact on: 
 - 📝 CV in: https://www.linkedin.com/in/brunfernandezrod/
 
-![Gtrabanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtrabanco&theme=dracula&show_icons=true)  ![Gtrabanco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrabanco&theme=dracula&layout=compact)
+![Gtrabanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunfernandez98&theme=dracula&show_icons=tru)  ![Gtrabanco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunfernandez98&theme=dracula&layout=compact)
 
 ----
 
