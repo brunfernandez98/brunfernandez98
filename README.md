@@ -2,7 +2,7 @@ Hi! 👋
 
 My name is Bruno, alive since 1998 🍷
 
-I begun to program when I was 13. I started with HTML, CSS, JAVA, VB.NET and SQL. Currently I prefer Typescript or any other language. I love the shell, does not matter if it is the windows PowerShell enviroment, BASH or ZSH.
+I begin to program when I was 13. I started with HTML, CSS, JAVA, VB.NET and SQL. Currently I prefer Typescript or any other language. I love the shell, does not matter if it is the windows PowerShell enviroment, BASH or ZSH.
 
 Now studying Computer Engineering in UNIVERSIDAD ORT.
 
