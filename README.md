@@ -4,6 +4,8 @@ My name is Bruno, alive since 1998 🍷
 
 I begin to program when I was 13. I started with HTML, CSS, JAVA, VB.NET and SQL. Currently I prefer Typescript or any other language. I love the shell, does not matter if it is the windows PowerShell enviroment, BASH or ZSH.
 
+I’m currently doing a CRUD panel's jobs using the React JS library. Also, working on the integration with technology’s  such as Google Cloud Functions and Apollo Server graphql
+
 Now studying Computer Engineering in UNIVERSIDAD ORT.
 
 - I write in 
