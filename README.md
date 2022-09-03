@@ -9,7 +9,7 @@ Now studying Computer Engineering in UNIVERSIDAD ORT.
 - I write in 
 - Also a personal blog: 
 - 📫 Contact on: 
-- 📝 CV in: https://www.linkedin.com/in/brunfernandezrod/
+- 📝 CV in: https://www.linkedin.com/in/bruno-fern%C3%A1ndez-36a4aa1b5
 
 ![Gtrabanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunfernandez98&theme=dracula&show_icons=tru)  ![Gtrabanco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunfernandez98&theme=dracula&layout=compact)
 
