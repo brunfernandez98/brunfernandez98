@@ -1,12 +1,10 @@
-Hi! 👋
+My name is Jorge Bruno Fernández, but I go by my first name, Jorge. Born in 1998 🍷, I dive into programming as both a passion and a hobby. I enjoy coding, listening to music, and playing basketball in my free time.
 
-My name is Bruno, alive since 1998 🍷
+I began my programming journey at the age of 13, delving into HTML, CSS, JAVA, VB.NET, and SQL. Currently, I lean towards Typescript or any language that gets the job done. I have a fondness for the shell, whether it's Windows PowerShell, BASH, or ZSH.
 
-I begin to program when I was 13. I started with HTML, CSS, JAVA, VB.NET and SQL. Currently I prefer Typescript or any other language. I love the shell, does not matter if it is the windows PowerShell enviroment, BASH or ZSH.
+Currently, I'm immersed in developing CRUD panels using the React JS library, along with harnessing the power of NEXT JS for server-side rendering and static site generation. I specialize in utilizing Google Cloud and Firebase as serverless services to create robust and scalable applications.
 
-I’m currently doing a CRUD panel's jobs using the React JS library. Also, working on the integration with technology’s  such as Google Cloud Functions and Apollo Server graphql
-
-Now studying Computer Engineering in UNIVERSIDAD ORT.
+Currently pursuing a degree in Computer Engineering at UNIVERSIDAD ORT.
 
 - I write in 
 - Also a personal blog: 
