@@ -11,7 +11,6 @@ I began my programming journey at the age of 13, delving into HTML, CSS, JAVA, V
 
 🌟 I'm also orienting myself towards the usability of systems, following best practices. I understand the holistic approach and the needs of both the client and their users for their business.
 
-- I write in 
 - Also a personal blog: 
 - 📫 Contact on: 
 - 📝 CV in: https://www.linkedin.com/in/bruno-fern%C3%A1ndez-36a4aa1b5
