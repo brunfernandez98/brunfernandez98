@@ -1,10 +1,15 @@
-My name is Jorge Bruno Fernández, but I go by my first name, Jorge. Born in 1998 🍷, I dive into programming as both a passion and a hobby. I enjoy coding, listening to music, and playing basketball in my free time.
 
-I began my programming journey at the age of 13, delving into HTML, CSS, JAVA, VB.NET, and SQL. Currently, I lean towards Typescript or any language that gets the job done. I have a fondness for the shell, whether it's Windows PowerShell, BASH, or ZSH.
+👋 Hi!
 
-Currently, I'm immersed in developing CRUD panels using the React JS library, along with harnessing the power of NEXT JS for server-side rendering and static site generation. I specialize in utilizing Google Cloud and Firebase as serverless services to create robust and scalable applications.
+My name is Jorge Bruno Fernández, but I go by my first name, Jorge. Born in 1998 , I dive into programming as both a passion and a hobby. I enjoy coding 💻, listening to music 🎶, and playing basketball 🏀 in my free time.
 
-Currently pursuing a degree in Computer Engineering at UNIVERSIDAD ORT.
+I began my programming journey at the age of 13, delving into HTML, CSS, JAVA, VB.NET, and SQL. Currently, I lean towards Typescript or any language that gets the job done. I have a fondness for the shell 🐚, whether it's Windows PowerShell, BASH, or ZSH.
+
+🔧 Currently, I'm immersed in developing CRUD panels using the React JS library, along with harnessing the power of NEXT JS for server-side rendering and static site generation. I specialize in utilizing Google Cloud ☁️ and Firebase 🔥 as serverless services to create robust and scalable applications.
+
+🎓 Currently pursuing a degree in Computer Engineering at UNIVERSIDAD ORT.
+
+🌟 I'm also orienting myself towards the usability of systems, following best practices. I understand the holistic approach and the needs of both the client and their users for their business.
 
 - I write in 
 - Also a personal blog: 
