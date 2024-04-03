@@ -17,7 +17,7 @@ I began my programming journey at the age of 13, delving into HTML, CSS, JAVA, V
 
 🌟 I'm also orienting myself towards the usability of systems, following best practices. I understand the holistic approach and the needs of both the client and their users for their business.
 
-## Lenguajes y herramientas
+## Languages ​​and devtools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,go,html,css,tailwind,styledcomponents,heroku,aws,docker,nextjs,dotnet,angular,react,graphql,apollo,cassandra,elasticsearch,firebase,supabase,postgres,redis,mongodb&perline=6)](https://skillicons.dev)
 
 
