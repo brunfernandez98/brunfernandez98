@@ -35,7 +35,7 @@ I began my programming journey at the age of 13, delving into HTML, CSS, JAVA, V
     </a>
 <p/>
 
-![Gtrabanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunfernandez98&theme=dracula&show_icons=tru)  ![Gtrabanco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunfernandez98&theme=dracula&layout=compact)
+
 
 ----
 
